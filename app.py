@@ -19,7 +19,7 @@ st.markdown("""
 # --- 2. USER CONFIGURATION ---
 TARGET_CALORIES = 1600
 TARGET_PROTEIN = 100
-GOOGLE_SHEET_URL = https://docs.google.com/spreadsheets/u/0/d/1Ug8DSMVE7PTJnJfTXxl8XVlHrePmOWTWVF7dJV1pzKQ/htmlview?pli=1
+GOOGLE_SHEET_URL = https://docs.google.com/spreadsheets/d/1Ug8DSMVE7PTJnJfTXxl8XVlHrePmOWTWVF7dJV1pzKQ/edit?usp=drivesdk
 
 # --- 3. DATABASE CONVERSION SYSTEM ---
 def get_csv_url(url):
